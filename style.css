@@ -98,7 +98,7 @@ header{
     width: 100%;
     min-height: 100vh;
     position: relative;
-    background: url("https://media.istockphoto.com/photos/road-trip-with-my-best-friend-picture-id1324380685");
+    background: url(img/europcar-car-rental.jpg);
     background-repeat: no-repeat;
     background-position: center right;
     background-size: cover;
@@ -390,6 +390,7 @@ background-position: left;
         display: initial;
     }
     .sign-up{
+        width: 100%;
         display: none;
     }
     .text h1{
@@ -480,3 +481,6 @@ background-position: left;
         grid-template-columns: repeat(auto-fit,minmax(254px,auto));
     }
 }
+
+
+
